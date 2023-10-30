@@ -1,5 +1,5 @@
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         int check_number = 10;
         String message;
 
